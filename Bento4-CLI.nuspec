@@ -13,4 +13,41 @@
     <copyright>Copyright 2016</copyright>
     <tags>bento4 mp4 dash hls</tags>
   </metadata>
+  <files>
+    <file src="tools/bin/aac2mp4.exe" target="tools/bin" />
+    <file src="tools/bin/Bento4CDll.dll" target="tools/bin" />
+    <file src="tools/bin/mp42aac.exe" target="tools/bin" />
+    <file src="tools/bin/mp42avc.exe" target="tools/bin" />
+    <file src="tools/bin/mp42hevc.exe" target="tools/bin" />
+    <file src="tools/bin/mp42hls.exe" target="tools/bin" />
+    <file src="tools/bin/mp42ts.exe" target="tools/bin" />
+    <file src="tools/bin/mp4compact.exe" target="tools/bin" />
+    <file src="tools/bin/mp4dash.bat" target="tools/bin" />
+    <file src="tools/bin/mp4dashclone.bat" target="tools/bin" />
+    <file src="tools/bin/mp4dcfpackager.exe" target="tools/bin" />
+    <file src="tools/bin/mp4decrypt.exe" target="tools/bin" />
+    <file src="tools/bin/mp4dump.exe" target="tools/bin" />
+    <file src="tools/bin/mp4edit.exe" target="tools/bin" />
+    <file src="tools/bin/mp4encrypt.exe" target="tools/bin" />
+    <file src="tools/bin/mp4extract.exe" target="tools/bin" />
+    <file src="tools/bin/mp4fragment.exe" target="tools/bin" />
+    <file src="tools/bin/mp4hls.bat" target="tools/bin" />
+    <file src="tools/bin/mp4info.exe" target="tools/bin" />
+    <file src="tools/bin/mp4mux.exe" target="tools/bin" />
+    <file src="tools/bin/mp4rtphintinfo.exe" target="tools/bin" />
+    <file src="tools/bin/mp4split.exe" target="tools/bin" />
+    <file src="tools/bin/mp4tag.exe" target="tools/bin" />
+    <file src="tools/docs/LICENSE.txt" target="tools/docs" />
+    <file src="tools/utils/aes.py" target="tools/utils" />
+    <file src="tools/utils/check-indexes.py" target="tools/utils" />
+    <file src="tools/utils/mp4-dash-clone.py" target="tools/utils" />
+    <file src="tools/utils/mp4-dash-encode.py" target="tools/utils" />
+    <file src="tools/utils/mp4-dash.py" target="tools/utils" />
+    <file src="tools/utils/mp4-hls.py" target="tools/utils" />
+    <file src="tools/utils/mp4utils.py" target="tools/utils" />
+    <file src="tools/utils/pr-derive-key.py" target="tools/utils" />
+    <file src="tools/utils/skm.py" target="tools/utils" />
+    <file src="tools/utils/subtitles.py" target="tools/utils" />
+    <file src="tools/utils/wv-request.py" target="tools/utils" />
+  </files>
 </package>
