@@ -9,7 +9,7 @@
     <projectUrl>https://github.com/501st-alpha1/bento4-cli-nuget</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package description</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>bento4 mp4 dash hls</tags>
   </metadata>
