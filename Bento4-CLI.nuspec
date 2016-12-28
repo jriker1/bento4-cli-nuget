@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Bento4-CLI</id>
+    <version>1.0.0</version>
+    <authors>Scott Weldon</authors>
+    <owners>Scott Weldon</owners>
+    <licenseUrl>https://github.com/501st-alpha1/bento4-cli-nuget/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/501st-alpha1/bento4-cli-nuget</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package description</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>bento4 mp4 dash hls</tags>
+  </metadata>
+</package>
