@@ -4,7 +4,7 @@
     <id>Bento4-CLI</id>
     <version>1.5.0.614</version>
     <authors>Scott Weldon</authors>
-    <owners>Scott Weldon</owners>
+    <owners>501st_alpha1</owners>
     <licenseUrl>https://github.com/501st-alpha1/bento4-cli-nuget/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/501st-alpha1/bento4-cli-nuget</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
