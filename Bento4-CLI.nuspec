@@ -36,14 +36,20 @@
     <file src="tools/bin/mp4split.exe" target="tools/bin" />
     <file src="tools/bin/mp4tag.exe" target="tools/bin" />
     <file src="tools/bin/mp42aac.exe" target="tools/bin" />
-    <file src="tools/docs/mp42avc.exe" target="tools/docs" />
-    <file src="tools/utils/mp42hevc.exe" target="tools/utils" />
-    <file src="tools/utils/mp42hls.exe" target="tools/utils" />
-    <file src="tools/utils/mp42ts.exe" target="tools/utils" />
-    
-    <file src="tools/utils/mp4-dash-encode.py" target="tools/utils" />
+    <file src="tools/bin/mp42avc.exe" target="tools/bin" />
+    <file src="tools/bin/mp42hevc.exe" target="tools/bin" />
+    <file src="tools/bin/mp42hls.exe" target="tools/bin" />
+    <file src="tools/bin/mp42ts.exe" target="tools/bin" />
+    <file src="tools/docs/Bento4.chm" target="tools/docs" />
+    <file src="tools/docs/Bento4_SDK_documentation.doc" target="tools/docs" />
+    <file src="tools/docs/Bento4_SDK_documentation.pdf" target="tools/docs" />
+    <file src="tools/docs/Bento4-HTML.zip" target="tools/docs" />
+    <file src="tools/docs/LICENSE.txt" target="tools/docs" />
+    <file src="tools/utils/aes.py" target="tools/utils" />
+    <file src="tools/utils/check-indexes.py" target="tools/utils" />
     <file src="tools/utils/mp4-dash.py" target="tools/utils" />
-    <file src="tools/utils/mp4-hls.py" target="tools/utils" />
+    <file src="tools/utils/mp4-dash-clone.py" target="tools/utils" />
+    <file src="tools/utils/mp4-dash-encode.py" target="tools/utils" />
     <file src="tools/utils/mp4utils.py" target="tools/utils" />
     <file src="tools/utils/pr-derive-key.py" target="tools/utils" />
     <file src="tools/utils/skm.py" target="tools/utils" />
